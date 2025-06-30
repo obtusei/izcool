@@ -1,6 +1,3 @@
-import Icons from "@izcool/ui/components/icons/index";
-import React from "react";
-
 type Props = {};
 
 export default function LandingPage({}: Props) {
